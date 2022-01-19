@@ -1,0 +1,34 @@
+[
+    {
+        "05-12-2021": {
+            "EmpID": "emp01",
+            "MeetingStart": "1000",
+            "MeetingEnd": "1200",
+            "Hour": "2"
+        }
+    },
+    {
+        "05-12-2021": {
+            "EmpID": "emp03",
+            "MeetingStart": "1400",
+            "MeetingEnd": "1700",
+            "Hour": "3"
+        }
+    },
+    {
+        "06-12-2021": {
+            "EmpID": "emp03",
+            "MeetingStart": "1000",
+            "MeetingEnd": "1200",
+            "Hour": "2"
+        }
+    },
+    {
+        "04-12-2021": {
+            "EmpID": "emp01",
+            "MeetingStart": "1000",
+            "MeetingEnd": "1200",
+            "Hour": "2"
+        }
+    }
+]
