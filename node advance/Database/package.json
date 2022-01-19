@@ -1,0 +1,17 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DatabaseLoginsignup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubhangi",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "knex": "^0.95.15",
+    "mysql": "^2.18.1",
+    "readline-sync": "^1.4.10"
+  }
+}
